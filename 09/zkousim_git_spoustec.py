@@ -1,4 +1,8 @@
 
-from zkousim_git import vypis_ucel_tohoto_souboru
+import zkousim_git
 
-print(vypis_ucel_tohoto_souboru())
+print(zkousim_git.vypis_ucel_tohoto_souboru())
+
+print(zkousim_git.popis_krok_1())
+
+print(zkousim_git.popis_krok_2)
