@@ -27,3 +27,9 @@ def popis_krok_2():
     """
     Zde si předpřipravuji funkci pro druhý krok.
     """
+    return
+"""
+Zjistil jsem, že git diff ukáže rozdíl jen když jsem provedl změny,
+ale ještě jsem je necommitnul. Takže teď sem jen připíšu toto,
+nebudu commitovat a zadám git diff, ať to konečně ozkouším.
+"""
