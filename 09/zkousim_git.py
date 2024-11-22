@@ -11,8 +11,7 @@ def popis_krok_1():
     """
     Popíše, jak proběhl můj první krok.
     """
-    return
-"""
+    return """
 V prvním kroku jsem vytvořil modul zkousim_git.py
 a jeho spouštěcí program zkousim_git_spoustec.py.
 Modul zkousim_git.py obsahoval pouze jedinou funkci
@@ -27,8 +26,7 @@ def popis_krok_2():
     """
     Zde si předpřipravuji funkci pro druhý krok.
     """
-    return
-"""
+    return """
 Zjistil jsem, že git diff ukáže rozdíl jen když jsem provedl změny,
 ale ještě jsem je necommitnul. Takže teď sem jen připíšu toto,
 nebudu commitovat a zadám git diff, ať to konečně ozkouším.
