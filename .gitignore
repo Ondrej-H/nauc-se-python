@@ -1,2 +1,3 @@
-*.pyc
-*.bat
+*.ps
+__pycache__/
+
